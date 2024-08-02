@@ -1,0 +1,11 @@
+﻿  basics.cpp
+  csamplecontrollerdriver.cpp
+  csampledevicedriver.cpp
+  cserverdriver_sample.cpp
+  cwatchdogdriver_sample.cpp
+  driverlog.cpp
+  driver_sample.cpp
+  Generating Code...
+C:\Users\ambkh\Downloads\OpenVR-driver-for-DIY-master\OpenVR-driver-for-DIY-master\OpenVR\samples\driver_sample\csamplecontrollerdriver.cpp(397): warning C4715: 'CSampleControllerDriver::GetSerialNumber': not all control paths return a value
+     Creating library C:\Users\ambkh\Downloads\OpenVR-driver-for-DIY-master\OpenVR-driver-for-DIY-master\OpenVR\samples\driver_sample\\bin\drivers\sample\bin\win64\driver_sample.lib and object C:\Users\ambkh\Downloads\OpenVR-driver-for-DIY-master\OpenVR-driver-for-DIY-master\OpenVR\samples\driver_sample\\bin\drivers\sample\bin\win64\driver_sample.exp
+  driver_sample.vcxproj -> C:\Users\ambkh\Downloads\OpenVR-driver-for-DIY-master\OpenVR-driver-for-DIY-master\OpenVR\samples\driver_sample\bin\drivers\sample\bin\win64\driver_sample.dll
